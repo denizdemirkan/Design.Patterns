@@ -1,0 +1,15 @@
+D:\Repositories\Design.Patterns\Prototype Pattern\bin\Debug\net6.0\Prototype Pattern.exe
+D:\Repositories\Design.Patterns\Prototype Pattern\bin\Debug\net6.0\Prototype Pattern.deps.json
+D:\Repositories\Design.Patterns\Prototype Pattern\bin\Debug\net6.0\Prototype Pattern.runtimeconfig.json
+D:\Repositories\Design.Patterns\Prototype Pattern\bin\Debug\net6.0\Prototype Pattern.dll
+D:\Repositories\Design.Patterns\Prototype Pattern\bin\Debug\net6.0\ref\Prototype Pattern.dll
+D:\Repositories\Design.Patterns\Prototype Pattern\bin\Debug\net6.0\Prototype Pattern.pdb
+D:\Repositories\Design.Patterns\Prototype Pattern\obj\Debug\net6.0\Prototype Pattern.csproj.AssemblyReference.cache
+D:\Repositories\Design.Patterns\Prototype Pattern\obj\Debug\net6.0\Prototype Pattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositories\Design.Patterns\Prototype Pattern\obj\Debug\net6.0\Prototype Pattern.AssemblyInfoInputs.cache
+D:\Repositories\Design.Patterns\Prototype Pattern\obj\Debug\net6.0\Prototype Pattern.AssemblyInfo.cs
+D:\Repositories\Design.Patterns\Prototype Pattern\obj\Debug\net6.0\Prototype Pattern.csproj.CoreCompileInputs.cache
+D:\Repositories\Design.Patterns\Prototype Pattern\obj\Debug\net6.0\Prototype Pattern.dll
+D:\Repositories\Design.Patterns\Prototype Pattern\obj\Debug\net6.0\ref\Prototype Pattern.dll
+D:\Repositories\Design.Patterns\Prototype Pattern\obj\Debug\net6.0\Prototype Pattern.pdb
+D:\Repositories\Design.Patterns\Prototype Pattern\obj\Debug\net6.0\Prototype Pattern.genruntimeconfig.cache

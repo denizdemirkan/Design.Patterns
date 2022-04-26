@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d8827673-7411-4ef1-858b-1be659cacf5f": {
+      "ProjectGuid": "d8827673-7411-4ef1-858b-1be659cacf5f",
+      "DisplayName": "Design.Patterns",
+      "ColorIndex": 0
+    },
+    "ca2a4ee0-b9c9-4128-9828-be7af9dc69b1": {
+      "ProjectGuid": "ca2a4ee0-b9c9-4128-9828-be7af9dc69b1",
+      "DisplayName": "Singleton Pattern",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

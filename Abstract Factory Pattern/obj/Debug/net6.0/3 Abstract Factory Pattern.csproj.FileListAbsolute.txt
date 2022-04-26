@@ -1,0 +1,15 @@
+D:\Repositories\Design.Patterns\Abstract Factory Pattern\bin\Debug\net6.0\3 Abstract Factory Pattern.exe
+D:\Repositories\Design.Patterns\Abstract Factory Pattern\bin\Debug\net6.0\3 Abstract Factory Pattern.deps.json
+D:\Repositories\Design.Patterns\Abstract Factory Pattern\bin\Debug\net6.0\3 Abstract Factory Pattern.runtimeconfig.json
+D:\Repositories\Design.Patterns\Abstract Factory Pattern\bin\Debug\net6.0\3 Abstract Factory Pattern.dll
+D:\Repositories\Design.Patterns\Abstract Factory Pattern\bin\Debug\net6.0\ref\3 Abstract Factory Pattern.dll
+D:\Repositories\Design.Patterns\Abstract Factory Pattern\bin\Debug\net6.0\3 Abstract Factory Pattern.pdb
+D:\Repositories\Design.Patterns\Abstract Factory Pattern\obj\Debug\net6.0\3 Abstract Factory Pattern.csproj.AssemblyReference.cache
+D:\Repositories\Design.Patterns\Abstract Factory Pattern\obj\Debug\net6.0\3 Abstract Factory Pattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositories\Design.Patterns\Abstract Factory Pattern\obj\Debug\net6.0\3 Abstract Factory Pattern.AssemblyInfoInputs.cache
+D:\Repositories\Design.Patterns\Abstract Factory Pattern\obj\Debug\net6.0\3 Abstract Factory Pattern.AssemblyInfo.cs
+D:\Repositories\Design.Patterns\Abstract Factory Pattern\obj\Debug\net6.0\3 Abstract Factory Pattern.csproj.CoreCompileInputs.cache
+D:\Repositories\Design.Patterns\Abstract Factory Pattern\obj\Debug\net6.0\3 Abstract Factory Pattern.dll
+D:\Repositories\Design.Patterns\Abstract Factory Pattern\obj\Debug\net6.0\ref\3 Abstract Factory Pattern.dll
+D:\Repositories\Design.Patterns\Abstract Factory Pattern\obj\Debug\net6.0\3 Abstract Factory Pattern.pdb
+D:\Repositories\Design.Patterns\Abstract Factory Pattern\obj\Debug\net6.0\3 Abstract Factory Pattern.genruntimeconfig.cache
